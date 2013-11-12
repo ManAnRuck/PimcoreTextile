@@ -1,0 +1,4 @@
+PimcoreTextile
+==============
+
+Textile für Pimcore
